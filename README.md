@@ -7,5 +7,4 @@
 
 ![Heloísa Real GitHub stats](https://github-readme-stats.vercel.app/api?username=heloreal17&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heloreal17&layout=compact)](https://github.com/heloreal17/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
