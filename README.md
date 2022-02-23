@@ -6,3 +6,5 @@
  <a href="https://discord.com/channels/@heloreal17" target="_blank"><img src="https://img.shields.io/badge/Discord-8eb573?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heloreal17&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heloreal17)](https://github.com/anuraghazra/github-readme-stats)
