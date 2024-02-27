@@ -4,6 +4,7 @@
 <!-- Stats -->
 <div align="center">
   <img width="45%" height="190em" src="https://github-readme-stats.vercel.app/api?username=heloreal17&show_icons=true&count_private=true&title_color=E6AEB7&icon_color=758EAC&text_color=ffffff&bg_color=070504" alt="Heloísa Real' github stats" />
+  <img width="34%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloreal17&layout=compact&langs_count=7&title_color=E6AEB7&text_color=ffffff&bg_color=070504" alt="Thiago Soares' most used languages"/>
 </div>
 
 ###
@@ -34,5 +35,5 @@
   
 - Estou no primeiro semestre no curso de Engenharia de Software.
 
-- Possuo nível avançado em inglês e me formei em 2022.
+- Possuo nível avançado em inglês e retirei o certificado de Cambridge em 2022.
 </p>
