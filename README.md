@@ -29,11 +29,11 @@
 
 <p>
   
-- Tenho 18 anos.
+- 🗓️ Tenho 18 anos.
 
-- Estudo e faço estágio na FIAP.
+- 📖 Estudo e faço estágio na FIAP.
   
-- Estou no primeiro semestre no curso de Engenharia de Software.
+- 💻 Estou no primeiro semestre no curso de Engenharia de Software.
 
-- Possuo nível avançado em inglês e retirei o certificado de Cambridge em 2022.
+- 🌎 Possuo nível avançado em inglês e retirei o certificado de Cambridge em 2022.
 </p>
