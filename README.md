@@ -12,7 +12,7 @@
 <!-- Technologies -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=figma,vscode,html,css,js,bootstrap,react" alt="Heloísa's Tecnology"> 
+    <img height="45em" src="https://skillicons.dev/icons?i=figma,vscode,html,css,js,bootstrap,react,python" alt="Heloísa's Tecnology"> 
   </a>
 </p>
 
